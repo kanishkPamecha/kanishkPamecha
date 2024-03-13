@@ -1,6 +1,7 @@
+  <img  src="./0651dead-86a2-46fa-8c57-00417b41c59e.gif" alt"Kanihs" > 
 <h1 align="center">Hi 👋, I'm Kanishk Pamecha</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
-   <img  src="./0651dead-86a2-46fa-8c57-00417b41c59e.gif" alt"Kanihs" >
+   <img align ="right" width="400px" margin="5%"src="./0651dead-86a2-46fa-8c57-00417b41c59e.gif" alt"Kanihs" >
    
 
 
