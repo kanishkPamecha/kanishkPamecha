@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kanishk Pamecha</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
- <img align ="right src ="https://drive.google.com/file/d/12nZNE5ScJQWnnTUVCiAeiIWhmbta8xLt/view?usp=sharing](https://lh3.googleusercontent.com/fife/ALs6j_Gz7qOzNqaWv4bti-Nj2MHrAIWF6c7pROIrmir1TKaZDwywvVxUpOAvmo8Zm7SjJxniaVWA1xChqbAFIN4HOJIR4RGjPEj_zw-xn7lulEsl2lRNp7Cf3Iv-JEdWGGm1-1cHx4VYCsir0giKLzk1ljI9d899wi0rlNnx5gDmLiMbXcIO840NmTxhexDnOAwaMLAD7iaDrgPnxsOUbwOqYyUFa40L4V9TjXkvoMjRW_KdefE2MCq7TYXVT4ZMqxq7ooKaQ9LLkNetnj0qPn05JCXUYKtdygRwuBI1GMIbrfp2EVJBV7Zjs9M-C-nEJ5BvHnqCt7_C-Ui4OQXc2dmJyjCJ-M9QsjQLz1dkTHTCTMxKIOOwlKHaoxImT-hc86ffHwLiySvNu4O8TGX9JihE-eynaAwy4l4hpYP-_ayGLwAkKQsJa7RDPnryID-iX-ZUqz3xljSoKULLTOpI1tWCMQAxjI_Cb6ItkSP1A3x_0iTl9OA9YrY8QYD4OrxgUW1Ibl8lsDNUzPB9mj0R7oC_MAJlMn_1zBbysRu3IgJ0hIsvinJ2KU30mjhNIMDxb7XnuoMrcEF6a3CV4u1NC3WDKTyJHicFfbeuCLIvietqZT89K8pptpVicliQzRm6K7kii55SQK4_wJ_mvImRpkiMi67mTBC3Ip96RRM9cfIoAUCWfEuGbToILaOnEqGY1RPJBd82ZUibR0LkJb9JYuAU1llqKWVdKpibwPlqYAzh5kI7jSNXvGoll47J4WOg6E_B_6Dff0a6bmZjYgEHGYkOygi_oLjh026CpYdLaH6hS_g0Meji0wfTcQ5LUL5095BeCt2V6OOPaIuOzc4HC0rgqxVkcEBMgjssHBerDqHv0YBn701xl1nMJ7rLcftQqD1tU-uMLO2H8cYfMrCqQiYHKr8z98emuYQfmErwIkdi6Z8vWIXcaE1OFNLYW1QsfmauJvKF=w1920-h912)" alt ="KanishkPamecha"> 
+<!--    <img  src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbcnorDtFlQQ5nGNr6zKv1YmVvxMaU1wI8a0m5WqoFrQkIRtsPIkr50o4WJPn3ASpDTXdLctAkSd9utI1s7m_3-1uMXGg=w1920-h912" alt"Kanihs" > -->
+   
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kanishkpamecha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishkpamecha" height="30" width="40" /></a>
